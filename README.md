@@ -7,9 +7,9 @@ Certifique-se de ter o [.NET SDK](https://dotnet.microsoft.com/download) instala
 
 - Clone ou faça o download deste repositório.
 
-- Navegue até o diretório raiz do projeto no terminal.
+- Execute o arquivo `Binary_Converter-API.sln` para abrir o projeto no Visual Studio.
 
-- Execute o comando `dotnet run` para iniciar o servidor.
+- Aperte `CTRL + F5` para iniciar a aplicação.
 
 - O servidor será iniciado e estará pronto para receber solicitações.
 
@@ -19,7 +19,7 @@ Certifique-se de ter o [.NET SDK](https://dotnet.microsoft.com/download) instala
 - `GET` /api/**binary-to-text**/{**Binário a ser convertido para texto**}
 
 ## Ferramentas e Tecnologias usadas
-- .NET 7.0.202
+- .NET 7.0
 - Visual Studio
 - ASP.NET Minimal APIs
 - Swagger
