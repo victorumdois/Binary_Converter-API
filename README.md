@@ -1,6 +1,6 @@
 # Binary_Converter-API
 
-Simples API desenvolvida em **C#** usando o modelo **Minimal API** do **ASP.NET**. A API permite **converter texto para sua representação binária** e **converter sequências binárias de volta para texto**.
+Simples API desenvolvida em **C#** usando o modelo **Minimal API** do **ASP.NET** que permite **converter texto para sua representação binária** e **converter sequências binárias de volta para texto**.
 
 ## Como Executar
 Certifique-se de ter o [.NET SDK](https://dotnet.microsoft.com/download) instalado em sua máquina.
