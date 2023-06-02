@@ -14,9 +14,9 @@ Certifique-se de ter o [.NET SDK](https://dotnet.microsoft.com/download) instala
 - O servidor será iniciado e estará pronto para receber solicitações.
 
 ## Rotas
-- `GET` /api/conversion/**text-to-binary**/{**Texto a ser convertido para binário**}
+- `GET` /api/**text-to-binary**/{**Texto a ser convertido para binário**}
 
-- `GET` /api/conversion/**binary-to-text**/{**Binário a ser convertido para texto**}
+- `GET` /api/**binary-to-text**/{**Binário a ser convertido para texto**}
 
 ## Ferramentas e Tecnologias usadas
 - .NET 7.0.202
